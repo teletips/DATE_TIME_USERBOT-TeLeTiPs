@@ -1,0 +1,42 @@
+{
+    "name": "DATE_TIME_USERBOT-TeLeTiPs",
+    "description": "Powerful Telegram userbot to turn your PROFILE PICTURE & LAST NAME into a real time clock & to change your BIO automatically.",
+    "repository": "https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs",
+    "keywords": [
+        "date time userbot",
+        "changes telegram bio automatically",
+        "turns profile picture in to a real time clock",
+        "turns last name in to a real time clock",
+        "Telegram userbot",
+        "Pyrogram userbot"
+    ],
+    "env": {
+        "API_ID": {
+            "description": "Get from my.telegram.org/apps",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Get from my.telegram.org/apps",
+            "required": true
+        },
+        "SESSION_NAME": {
+            "description": "",
+            "required": true
+        },
+        "TIME_ZONE": {
+            "description": "",
+            "required": true
+        }
+    },
+    "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}

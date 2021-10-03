@@ -20,11 +20,11 @@
             "required": true
         },
         "SESSION_NAME": {
-            "description": "",
+            "description": "A valid Pyrogram session name",
             "required": true
         },
         "TIME_ZONE": {
-            "description": "",
+            "description": "Your time zone (Example: Asia/Kolkata)",
             "required": true
         }
     },

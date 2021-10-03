@@ -20,8 +20,17 @@
 4. `TIME_ZONE`: Your time zone (Example: Asia/Kolkata)
 
 <p align="center">
-<img src="https://telegra.ph/file/432ce18d60b1f07294d50.jpg">
+<img src="https://telegra.ph/file/e23d725febb8caaddb1c0.jpg">
 <p>
+ 
+<p align="center">
+<img src="https://telegra.ph/file/538ca7053db975249423b.jpg
+<p>
+
+<p align="center">
+<img src="https://telegra.ph/file/2a6911b2327eb3167397b.jpg">
+<p>    
+    
  
 ## Deployment Methods
 

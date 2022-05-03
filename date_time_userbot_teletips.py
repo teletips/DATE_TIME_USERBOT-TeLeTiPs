@@ -16,9 +16,10 @@ import random
 import os
 
 Date_Time_Userbot_teletips=Client(
+    name = "date_time_userbot_teletips",
     api_id = int(os.environ["API_ID"]),
     api_hash = os.environ["API_HASH"],
-    session_name = os.environ["SESSION_NAME"]
+    session_string = os.environ["SESSION_STRING"]
 )
 
 Time_Zone = os.environ["TIME_ZONE"]

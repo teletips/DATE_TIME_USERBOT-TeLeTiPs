@@ -36,7 +36,7 @@
 - [Thakshaka](https://t.me/thakshakar)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-## ⚠️ First & Last Warning
+## Warning
 
 - Changing the code is NOT ALLOWED!!    
 - You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
@@ -45,5 +45,5 @@
 ##Credits
 - [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/teletips/CountdownTimer-TeLeTiPs)
 ```
-## Read GNU AFFERO GENERAL PUBLIC LICENSE: 
-[LICENSE](https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs/blob/main/LICENSE)
+## License: 
+[GNU Affero General Public License v3.0](https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs/blob/main/LICENSE)
